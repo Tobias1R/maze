@@ -250,8 +250,7 @@ class Janela(QWidget):
         """Carrega a matriz
         ao carregar a matriz ela será automaticamente pintada no widget.
 
-        Aqui espera-se uma matriz como a do gabarito enviado para o 
-        exercício nos quesitos:
+        Aqui espera-se uma matriz como a seguir:
             \n separando linhas
             \t separando valores
             -1 entradas se a direita
